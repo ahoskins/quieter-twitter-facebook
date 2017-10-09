@@ -1,0 +1,62 @@
+/* Twitter */
+.module.trends {
+    display: none !important;
+}
+
+.module.wtf-module {
+    display: none !important;
+}
+
+li.moments {
+    display: none !important;
+}
+
+.module.Footer {
+    display: none !important;
+}
+
+ul.typeahead-topics {
+    display: none !important;
+}
+
+.LiveVideoHomePageModuleContainer {
+    display: none !important;
+}
+
+/* Facebook */
+
+#pagelet_trending_tags_and_topics {
+    display: none !important;
+}
+
+#pagelet_ego_pane {
+    display: none !important;
+}
+
+.fbChatSidebar {
+    display: none !important;
+}
+
+#stories_pagelet_rhc {
+    display: none !important;
+}
+
+#pagelet_rhc_footer {
+    display: none !important;
+}
+
+#appsNav li a {
+    display: none;
+}
+
+#appsNav li a[title="Events"] {
+    display: block !important;
+}
+
+#appsNav li a[title="Groups"] {
+    display: block !important;
+}
+
+#appsNav li a[title="Pages"] {
+    display: block !important;
+}
